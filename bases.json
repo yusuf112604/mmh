@@ -1,0 +1,36 @@
+{
+  "prods": [
+    {
+      "id": "1",
+      "name": "Lenovo",
+      "category": "notebook"
+    },
+    {
+      "id": "1",
+      "name": "Samsung",
+      "category": "tablet"
+    },
+    {
+      "id": "1",
+      "name": "Redmi",
+      "category": "phone"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John",
+      "role": "student"
+    },
+    {
+      "id": "2",
+      "name": "Max",
+      "role": "Parent"
+    },
+    {
+      "id": "1",
+      "name": "Tom",
+      "role": "teacher"
+    }
+  ]
+}
